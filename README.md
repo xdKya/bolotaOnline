@@ -1,1 +1,2 @@
-# bolotaOnline
+# synchronousBallMovement
+Ball moving synchronously
